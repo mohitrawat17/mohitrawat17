@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Rawat</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="350" align="right" alt="coding" />
+<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300" align="right" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitrawat17&label=Profile%20views&color=0e75b6&style=flat" alt="mohitrawat17" /> </p>
 
